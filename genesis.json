@@ -5,7 +5,7 @@
     "current_fees": {
       "parameters": [[
           0,{
-            "fee": 10,
+            "fee": 100,
             "price_per_kbyte": 10
           }
         ],[
@@ -289,7 +289,7 @@
   ],
   "initial_assets": [],
   "initial_balances": [{
-      "owner": "BGC58q9P7RYYnmULoiZuZjKrkN9icMwhMtyK2zrTKctePeW8K5vib",
+      "owner": "BGCFAbAx7yuxt725qSZvfwWqkdCwp9ZnUama",
       "asset_symbol": "BGC",
       "amount": "10000000000000"
     }
