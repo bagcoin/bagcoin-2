@@ -1,0 +1,1 @@
+./programs/witness_node/witness_node --genesis-json ./genesis.json --p2p-endpoint 0.0.0.0:18888 --rpc-endpoint 127.0.0.1:18887 --seed-node seed-node1.bagcoin.com:18888 --seed-node seed-node2.bagcoin.com:18888 --enable-stale-production
