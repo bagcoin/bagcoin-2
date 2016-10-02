@@ -1,5 +1,5 @@
 {
-  "initial_timestamp": "2016-10-02T12:07:35",
+  "initial_timestamp": "2016-10-03T00:00:00",
   "max_core_supply": "10000000000000",
   "initial_parameters": { 
     "current_fees": {
@@ -51,12 +51,12 @@
             "symbol3": "500000",
             "symbol4": "300000",
             "long_symbol": 5000,
-            "price_per_kbyte": 0
+            "price_per_kbyte": 1
           }
         ],[
           11,{
             "fee": 500,
-            "price_per_kbyte": 0
+            "price_per_kbyte": 1
           }
         ],[
           12,{
