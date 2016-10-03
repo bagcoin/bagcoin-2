@@ -1,1 +1,0 @@
-./programs/witness_node/witness_node --genesis-json ./genesis.json --p2p-endpoint 0.0.0.0:18888 --rpc-endpoint 127.0.0.1:18887 --seed-node 183.131.213.30:18888 --seed-node 114.215.168.45:18888 --seed-node 49.213.13.209:18888
